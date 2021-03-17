@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  title: 'SplashGo',
+  author: 'William Tang',
+  email: 'sdotc30@gmail.com',
+  link: 'https://splashgo.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
@@ -10,7 +10,6 @@ const BLOG = {
   postsPerPage: 7,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/craigaryhart',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
