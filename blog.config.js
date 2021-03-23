@@ -1,12 +1,12 @@
 const BLOG = {
-  title: 'SplashGo',
-  author: 'William Tang',
+  title: "Splash Mind",
+  author: 'William.T',
   email: 'sdotc30@gmail.com',
   link: 'https://splashgo.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // if leave this empty, current year will be used.
+  since: 2020, // if leave this empty, current year will be used.
   postsPerPage: 7,
   showAbout: true, // WIP
   showArchive: true, // WIP
